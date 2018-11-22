@@ -2,7 +2,7 @@
 //  Created by Batuhan Aydın on 16.11.2018.
 //  Copyright © 2018 i.Batuhan Aydın. All rights reserved.
 //  www.ibaydin.com
-//  instagtam.com/ibaydinn
+//  instagram.com/ibaydinn
 //
 
 #include <Servo.h>
